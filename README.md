@@ -10,3 +10,6 @@ Currently, two official plugins are available:
 
 press the listen button and speak clearly. the prompt will be recorded.
 press the sumbit button to get the response and then press the audio button to get the answer is speech format
+
+![image](https://github.com/user-attachments/assets/7ba197bc-08ef-4456-81ce-4749f9a5f680)
+
